@@ -14,7 +14,7 @@
           "CONCEPT_CLASS_ID": "Ingredient"
         },
         "isExcluded": false,
-        "includeDescendants": false,
+        "includeDescendants": true,
         "includeMapped": false
       }
     ]
