@@ -84,6 +84,23 @@
       "isExcluded": false,
       "includeDescendants": true,
       "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2108561,
+        "CONCEPT_NAME": "Excision of lip; V-excision with primary direct linear closure",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "40520",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
     }
   ]
 }
