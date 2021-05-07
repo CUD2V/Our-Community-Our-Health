@@ -2,6 +2,40 @@
   "items": [
     {
       "concept": {
+        "CONCEPT_ID": 2108602,
+        "CONCEPT_NAME": "Excision of frenum, labial or buccal (frenumectomy, frenulectomy, frenectomy)",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "40819",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2108563,
+        "CONCEPT_NAME": "Excision of lip; full thickness, reconstruction with cross lip flap (Abbe-Estlander)",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "40527",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
         "CONCEPT_ID": 2108562,
         "CONCEPT_NAME": "Excision of lip; full thickness, reconstruction with local flap (eg, Estlander or fan)",
         "STANDARD_CONCEPT": "S",
@@ -26,6 +60,23 @@
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "CONCEPT_CODE": "40510",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2108561,
+        "CONCEPT_NAME": "Excision of lip; V-excision with primary direct linear closure",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "40520",
         "DOMAIN_ID": "Procedure",
         "VOCABULARY_ID": "CPT4",
         "CONCEPT_CLASS_ID": "CPT4"
@@ -87,13 +138,47 @@
     },
     {
       "concept": {
-        "CONCEPT_ID": 2108561,
-        "CONCEPT_NAME": "Excision of lip; V-excision with primary direct linear closure",
+        "CONCEPT_ID": 2108565,
+        "CONCEPT_NAME": "Resection of lip, more than one-fourth, without reconstruction",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "CONCEPT_CODE": "40520",
+        "CONCEPT_CODE": "40530",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2108589,
+        "CONCEPT_NAME": "Unlisted procedure, lips",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "40799",
+        "DOMAIN_ID": "Procedure",
+        "VOCABULARY_ID": "CPT4",
+        "CONCEPT_CLASS_ID": "CPT4"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 2108557,
+        "CONCEPT_NAME": "Vermilionectomy (lip shave), with mucosal advancement",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "40500",
         "DOMAIN_ID": "Procedure",
         "VOCABULARY_ID": "CPT4",
         "CONCEPT_CLASS_ID": "CPT4"
