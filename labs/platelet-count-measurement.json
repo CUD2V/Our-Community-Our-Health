@@ -1,0 +1,89 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 4267147,
+          "CONCEPT_NAME": "Platelet count",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "61928009",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4015170,
+          "CONCEPT_NAME": "Platelet count, blood, automated",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "104107006",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4016231,
+          "CONCEPT_NAME": "Platelet count, blood, manual",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "104106002",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3049178,
+          "CONCEPT_NAME": "Platelets Large/Platelets in Blood by Automated count",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "48386-7",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42869450,
+          "CONCEPT_NAME": "Platelets reticulated/100 platelets in Blood by Automated count",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "71693-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }
