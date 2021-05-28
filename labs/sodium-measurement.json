@@ -1,0 +1,174 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 3044783,
+          "CONCEPT_NAME": "Sodium/Creatinine [Molar ratio] in 24 hour Urine",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "44405-9",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3045687,
+          "CONCEPT_NAME": "Sodium/Creatinine [Molar ratio] in Urine",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "33951-5",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40760099,
+          "CONCEPT_NAME": "Sodium/Creatinine [Ratio] in 24 hour Urine",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "56980-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3047005,
+          "CONCEPT_NAME": "Sodium/Creatinine [Ratio] in Urine",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "43223-7",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4097430,
+          "CONCEPT_NAME": "Sodium measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "25197003",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40762256,
+          "CONCEPT_NAME": "Sodium [Moles/volume] in 24 hour Stool",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "59163-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3014485,
+          "CONCEPT_NAME": "Sodium [Moles/volume] in 24 hour Urine",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21525-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3000285,
+          "CONCEPT_NAME": "Sodium [Moles/volume] in Blood",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "2947-0",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3019550,
+          "CONCEPT_NAME": "Sodium [Moles/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "2951-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3034249,
+          "CONCEPT_NAME": "Sodium [Moles/volume] in Urine collected for unspecified duration",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "35678-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }
