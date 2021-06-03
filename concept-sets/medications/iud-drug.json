@@ -1,0 +1,2095 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 21147080,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314574",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Quant Clinical Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21039165,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314575",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Quant Clinical Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21127341,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device [Levosert]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314576",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21078398,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device [Levosert] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314578",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Quant Branded Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21098008,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device [Levosert] Box of 1 by Allergan",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314579",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21039166,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device [Levosert] by Allergan",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314577",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21176581,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device [Mirena]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314581",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21088173,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device [Mirena] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314586",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Quant Branded Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21058716,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device [Mirena] Box of 1 by Bayer",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314588",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21029294,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device [Mirena] Box of 1 by Dowelhurst",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314590",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21088174,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device [Mirena] Box of 1 by Mawdsley-Brooks",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314587",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21068648,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device [Mirena] Box of 1 by Waymade",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314589",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21127342,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device [Mirena] by Bayer",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314583",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21166827,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device [Mirena] by Dowelhurst",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314585",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21107871,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device [Mirena] by Mawdsley-Brooks",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314582",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21048955,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine device [Mirena] by Waymade",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP314584",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714651,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743041",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Quant Clinical Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714650,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743042",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Quant Clinical Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714639,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System [Levosert]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743053",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714637,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System [Levosert] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743055",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Quant Branded Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714636,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System [Levosert] Box of 1 by Gedeon Richter",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743056",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714638,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System [Levosert] by Gedeon Richter",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743054",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714649,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743043",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714644,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743048",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Quant Branded Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714643,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] Box of 1 by Bayer",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743049",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36055060,
+          "CONCEPT_NAME": "24 HR levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] Box of 1 by CST",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4980380",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714642,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] Box of 1 by Dowelhurst",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743050",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714640,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] Box of 1 by Mawdsley-Brooks",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743052",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714641,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] Box of 1 by Waymade",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743051",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714648,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] by Bayer",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743044",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36055061,
+          "CONCEPT_NAME": "24 HR levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] by CST",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4980381",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714647,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] by Dowelhurst",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743045",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714645,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] by Mawdsley-Brooks",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743047",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40714646,
+          "CONCEPT_NAME": "24 HR Levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] by Waymade",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4743046",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2721261,
+          "CONCEPT_NAME": "Contraceptive intrauterine device (e.g., progestacert iud), including implants and supplies",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "S4989",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "HCPCS",
+          "CONCEPT_CLASS_ID": "HCPCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 994915,
+          "CONCEPT_NAME": "Copper chloride Intrauterine System",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4821427",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 994916,
+          "CONCEPT_NAME": "Copper chloride Intrauterine System [Primedifem]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4821428",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43012750,
+          "CONCEPT_NAME": "levonorgestrel 0.000583 MG/HR Intrauterine System",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1366334",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Clinical Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43012751,
+          "CONCEPT_NAME": "levonorgestrel 0.000583 MG/HR Intrauterine System [Skyla]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1366339",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1718994,
+          "CONCEPT_NAME": "levonorgestrel 0.000729 MG/HR Intrauterine System",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1811886",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Clinical Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1718412,
+          "CONCEPT_NAME": "levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1856546",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 46221622,
+          "CONCEPT_NAME": "levonorgestrel 0.000813 MG/HR Intrauterine System",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1605252",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Clinical Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 46221626,
+          "CONCEPT_NAME": "levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1605257",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21070419,
+          "CONCEPT_NAME": "Levonorgestrel 0.000833 MG/HR Intrauterine device",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP256149",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21119301,
+          "CONCEPT_NAME": "Levonorgestrel 0.000833 MG/HR Intrauterine device Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP256157",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21109599,
+          "CONCEPT_NAME": "Levonorgestrel 0.000833 MG/HR Intrauterine device [Levosert]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP256167",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21050651,
+          "CONCEPT_NAME": "Levonorgestrel 0.000833 MG/HR Intrauterine device [Levosert] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP256174",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21119302,
+          "CONCEPT_NAME": "Levonorgestrel 0.000833 MG/HR Intrauterine device [Mirena]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP256185",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21129102,
+          "CONCEPT_NAME": "Levonorgestrel 0.000833 MG/HR Intrauterine device [Mirena] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP256192",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 19131647,
+          "CONCEPT_NAME": "levonorgestrel 0.000833 MG/HR Intrauterine System",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "804156",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Clinical Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723545,
+          "CONCEPT_NAME": "Levonorgestrel 0.000833 MG/HR Intrauterine System Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733599",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723543,
+          "CONCEPT_NAME": "Levonorgestrel 0.000833 MG/HR Intrauterine System [Levosert]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733601",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723542,
+          "CONCEPT_NAME": "Levonorgestrel 0.000833 MG/HR Intrauterine System [Levosert] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733602",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 19132304,
+          "CONCEPT_NAME": "levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "807283",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723544,
+          "CONCEPT_NAME": "Levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733600",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21168584,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine device",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP256771",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21080147,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine device Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP256776",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21119305,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine device [Jaydess]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP256785",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21119306,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine device [Jaydess] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP256801",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21158773,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine device [Jaydess] Box of 1 by Bayer",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP256812",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21109605,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine device [Jaydess] by Bayer",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP256794",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43178615,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine Drug Delivery System",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP444396",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43178616,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine Drug Delivery System Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP444397",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43167553,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine Drug Delivery System [Jaydess]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP444398",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43145414,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine Drug Delivery System [Jaydess] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP444399",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43211351,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine Drug Delivery System [Jaydess] Box of 1 by Bayer",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP444400",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43835992,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine Drug Delivery System [Jaydess] by Jenapharm",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP924884",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43835993,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine Drug Delivery System [Luadei]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP924886",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43656053,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine Drug Delivery System [Luadei] by Jenapharm",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP924887",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723541,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine System",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733603",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723540,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine System Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733604",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723539,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine System [Jaydess]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733605",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723537,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine System [Jaydess] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733607",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723536,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine System [Jaydess] Box of 1 by Bayer",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733608",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723538,
+          "CONCEPT_NAME": "Levonorgestrel 13.5 MG Intrauterine System [Jaydess] by Bayer",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733606",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723535,
+          "CONCEPT_NAME": "Levonorgestrel 19.5 MG Intrauterine System",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733609",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723534,
+          "CONCEPT_NAME": "Levonorgestrel 19.5 MG Intrauterine System Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733610",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723533,
+          "CONCEPT_NAME": "Levonorgestrel 19.5 MG Intrauterine System [Kyleena]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733611",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723531,
+          "CONCEPT_NAME": "Levonorgestrel 19.5 MG Intrauterine System [Kyleena] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733613",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723530,
+          "CONCEPT_NAME": "Levonorgestrel 19.5 MG Intrauterine System [Kyleena] Box of 1 by Bayer",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733614",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723532,
+          "CONCEPT_NAME": "Levonorgestrel 19.5 MG Intrauterine System [Kyleena] by Bayer",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733612",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42876203,
+          "CONCEPT_NAME": "Levonorgestrel 19.5 MG Intrauterine System [Kyleena] by Emra-Med",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4873316",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42876204,
+          "CONCEPT_NAME": "Levonorgestrel 19.5 MG Intrauterine System [Kyleena] by Eurim-Pharm",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4873317",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36891685,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine device",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP988798",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43637966,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine device [Mirena]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP924880",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43835991,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine device [Mirena] by Jenapharm",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP924882",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43156619,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine Drug Delivery System",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP444375",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43167550,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine Drug Delivery System Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP444376",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43583804,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine Drug Delivery System [Levosert]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP924878",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43799708,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine Drug Delivery System [Levosert] by Actavis",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP924879",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43189516,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine Drug Delivery System [Mirena]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP444377",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43211348,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine Drug Delivery System [Mirena] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP444378",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43134501,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine Drug Delivery System [Mirena] Box of 1 by Bayer",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP444379",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36782828,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine System",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4771111",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36782827,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine System Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4771110",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36782820,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine System [Levonortis]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4771103",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36782819,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine System [Levonortis] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4771102",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36782818,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine System [Levonortis] Box of 1 by Exeltis",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4771101",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36782823,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine System [Levosert]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4771106",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36782822,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine System [Levosert] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4771105",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36782821,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine System [Levosert] Box of 1 by Mithra",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4771104",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36782826,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine System [Mirena]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4771109",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36782825,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine System [Mirena] Box of 1",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4771108",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Box"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36782824,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine System [Mirena] Box of 1 by Bayer",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4771107",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36509355,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine System [Mirena] by Emra-Med",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4835604",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36506664,
+          "CONCEPT_NAME": "Levonorgestrel 52 MG Intrauterine System [Mirena] by Haematogmbh",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4836026",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Marketed Product"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21119300,
+          "CONCEPT_NAME": "Levonorgestrel Intrauterine device",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP255821",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21060482,
+          "CONCEPT_NAME": "Levonorgestrel Intrauterine device [Jaydess]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP255831",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21060483,
+          "CONCEPT_NAME": "Levonorgestrel Intrauterine device [Levosert]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP255841",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21109594,
+          "CONCEPT_NAME": "Levonorgestrel Intrauterine device [Mirena]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP255852",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43156616,
+          "CONCEPT_NAME": "Levonorgestrel Intrauterine Drug Delivery System",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP444367",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Clinical Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43156617,
+          "CONCEPT_NAME": "Levonorgestrel Intrauterine Drug Delivery System [Jaydess]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP444368",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43799706,
+          "CONCEPT_NAME": "Levonorgestrel Intrauterine Drug Delivery System [Levosert]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP924872",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43763716,
+          "CONCEPT_NAME": "Levonorgestrel Intrauterine Drug Delivery System [Luadei]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP924873",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43211346,
+          "CONCEPT_NAME": "Levonorgestrel Intrauterine Drug Delivery System [Mirena]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP444369",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1718400,
+          "CONCEPT_NAME": "levonorgestrel Intrauterine System",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1856515",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Clinical Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723548,
+          "CONCEPT_NAME": "Levonorgestrel Intrauterine System [Jaydess]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733596",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1718405,
+          "CONCEPT_NAME": "levonorgestrel Intrauterine System [Kyleena]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1856535",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36782834,
+          "CONCEPT_NAME": "Levonorgestrel Intrauterine System [Levonortis]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4771117",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40723547,
+          "CONCEPT_NAME": "Levonorgestrel Intrauterine System [Levosert]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "OMOP4733597",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1718402,
+          "CONCEPT_NAME": "levonorgestrel Intrauterine System [Liletta]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1856524",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1718403,
+          "CONCEPT_NAME": "levonorgestrel Intrauterine System [Mirena]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1856528",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1718401,
+          "CONCEPT_NAME": "levonorgestrel Intrauterine System [Skyla]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1856517",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

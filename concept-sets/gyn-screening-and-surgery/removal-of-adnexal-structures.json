@@ -1,0 +1,55 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 4171198,
+          "CONCEPT_NAME": "Laparoscopy with removal of adnexal structures",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "49273004",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2722205,
+          "CONCEPT_NAME": "Laparoscopy, surgical; with removal of adnexal structures (partial or total oophorectomy and/or salpingectomy). (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "56307",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2110240,
+          "CONCEPT_NAME": "Laparoscopy, surgical; with removal of adnexal structures (partial or total oophorectomy and/or salpingectomy)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "58661",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

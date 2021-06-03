@@ -1,0 +1,463 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 37394135,
+          "CONCEPT_NAME": "FSH (follicle stimulating hormone) level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1027161000000108",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37393901,
+          "CONCEPT_NAME": "Serum FSH (follicle stimulating hormone) level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1023191000000105",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4042260,
+          "CONCEPT_NAME": "Urine follicle stimulating hormone measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "167382006",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37393641,
+          "CONCEPT_NAME": "Urine FSH (follicle stimulating hormone) 24 hour assay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1019671000000109",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37393310,
+          "CONCEPT_NAME": "Urine FSH (follicle stimulating hormone) titre",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1015341000000105",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4166751,
+          "CONCEPT_NAME": "Serum follicle stimulating hormone measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "273971007",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40484118,
+          "CONCEPT_NAME": "Quantitative measurement of follicle stimulating hormone in baseline serum or plasma specimen",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "443927003",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4098630,
+          "CONCEPT_NAME": "Luteinizing hormone/follicle stimulating hormone measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "250660006",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 44805938,
+          "CONCEPT_NAME": "Luteinising hormone/follicle stimulating hormone ratio measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "790031000000105",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37393902,
+          "CONCEPT_NAME": "Plasma FSH (follicle stimulating hormone) level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1023201000000107",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2212152,
+          "CONCEPT_NAME": "Gonadotropin releasing hormone stimulation panel This panel must include the following: Follicle stimulating hormone (FSH) (83001 x 4) Luteinizing hormone (LH) (83002 x 4)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "80426",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2212376,
+          "CONCEPT_NAME": "Gonadotropin; follicle stimulating hormone (FSH)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "83001",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4149280,
+          "CONCEPT_NAME": "Follicle stimulating hormone measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "31003009",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 35963505,
+          "CONCEPT_NAME": "FSHB (follicle stimulating hormone subunit beta) Variant",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "3964",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "HGNC",
+          "CONCEPT_CLASS_ID": "Gene"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2212148,
+          "CONCEPT_NAME": "Combined rapid anterior pituitary evaluation panel This panel must include the following: Adrenocorticotropic hormone (ACTH) (82024 x 4) Luteinizing hormone (LH) (83002 x 4) Follicle stimulating hormone (FSH) (83001 x 4) Prolactin (84146 x 4) Human growth",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "80418",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37399337,
+          "CONCEPT_NAME": "90 minute serum follicle stimulating hormone level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1023081000000109",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37398679,
+          "CONCEPT_NAME": "90 minute plasma follicle stimulating hormone level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1022981000000100",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37393892,
+          "CONCEPT_NAME": "60 minute serum follicle stimulating hormone level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1023071000000107",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37393885,
+          "CONCEPT_NAME": "60 minute plasma follicle stimulating hormone level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1022971000000102",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37393891,
+          "CONCEPT_NAME": "30 minute serum follicle stimulating hormone level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1023061000000100",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37399335,
+          "CONCEPT_NAME": "30 minute plasma follicle stimulating hormone level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1022961000000109",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 44805593,
+          "CONCEPT_NAME": "20 minute follicle stimulating hormone measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "754871000000100",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37398668,
+          "CONCEPT_NAME": "20 minute follicle stimulating hormone level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1022111000000109",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37393894,
+          "CONCEPT_NAME": "150 minute serum follicle stimulating hormone level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1023101000000103",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37399336,
+          "CONCEPT_NAME": "150 minute plasma follicle stimulating hormone level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1023001000000104",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37393893,
+          "CONCEPT_NAME": "120 minute serum follicle stimulating hormone level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1023091000000106",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37393886,
+          "CONCEPT_NAME": "120 minute plasma follicle stimulating hormone level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1022991000000103",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

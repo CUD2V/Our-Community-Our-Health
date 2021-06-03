@@ -1,0 +1,1942 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 3043371,
+          "CONCEPT_NAME": "Bilirubin casts [Presence] in Urine sediment by Light microscopy",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "44075-0",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3044599,
+          "CONCEPT_NAME": "Bilirubin.conjugated/Bilirubin.total in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "34442-4",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3043744,
+          "CONCEPT_NAME": "Bilirubin.conjugated+indirect [Mass/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "33898-8",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3043995,
+          "CONCEPT_NAME": "Bilirubin.conjugated+indirect [Moles/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "33899-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3030908,
+          "CONCEPT_NAME": "Bilirubin.conjugated [Mass/volume] in Body fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "33458-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3019676,
+          "CONCEPT_NAME": "Bilirubin.conjugated [Mass/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "15152-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3038245,
+          "CONCEPT_NAME": "Bilirubin.conjugated [Moles/volume] in Body fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "39462-7",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3041374,
+          "CONCEPT_NAME": "Bilirubin.conjugated [Moles/volume] in Dialysis fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "53083-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21492629,
+          "CONCEPT_NAME": "Bilirubin.conjugated [Moles/volume] in Peritoneal fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "78441-3",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3005772,
+          "CONCEPT_NAME": "Bilirubin.conjugated [Moles/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "29760-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3004173,
+          "CONCEPT_NAME": "Bilirubin.delta [Mass/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1970-3",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3020768,
+          "CONCEPT_NAME": "Bilirubin.delta [Moles/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "22665-4",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3045524,
+          "CONCEPT_NAME": "Bilirubin direct and total panel [Mass/volume] - Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "34543-9",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3035521,
+          "CONCEPT_NAME": "Bilirubin.direct/Bilirubin.total in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "35672-5",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3021194,
+          "CONCEPT_NAME": "Bilirubin.direct [Mass/volume] in Body fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14152-3",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3053001,
+          "CONCEPT_NAME": "Bilirubin.direct [Mass/volume] in Cord blood",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "48623-3",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40760025,
+          "CONCEPT_NAME": "Bilirubin.direct [Mass/volume] in Peritoneal fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "56906-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40760024,
+          "CONCEPT_NAME": "Bilirubin.direct [Mass/volume] in Pleural fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "56905-3",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3027597,
+          "CONCEPT_NAME": "Bilirubin.direct [Mass/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1968-7",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3004195,
+          "CONCEPT_NAME": "Bilirubin.direct [Moles/volume] in Body fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "25564-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3028638,
+          "CONCEPT_NAME": "Bilirubin.direct [Moles/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14629-0",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3043347,
+          "CONCEPT_NAME": "Bilirubin.direct [Presence] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "43820-0",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43055229,
+          "CONCEPT_NAME": "Bilirubin excess and oxyhemoglobin and methemoglobin and xanthochromia and albumin quotient panel - Serum and CSF",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "72264-5",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43055226,
+          "CONCEPT_NAME": "Bilirubin excess [Moles/volume] in Serum and CSF",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "72261-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 46235479,
+          "CONCEPT_NAME": "Bilirubin fractions panel [Moles/volume] - Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "75697-3",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3013828,
+          "CONCEPT_NAME": "Bilirubin.indirect [Mass/volume] in Body fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "29210-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40766798,
+          "CONCEPT_NAME": "Bilirubin.indirect [Mass/volume] in Cord blood",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "64082-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3007359,
+          "CONCEPT_NAME": "Bilirubin.indirect [Mass/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1971-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3044244,
+          "CONCEPT_NAME": "Bilirubin.indirect [Moles/volume] in Body fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "39463-5",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 21492708,
+          "CONCEPT_NAME": "Bilirubin.indirect [Moles/volume] in Peritoneal fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "78442-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3007242,
+          "CONCEPT_NAME": "Bilirubin.indirect [Moles/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14630-8",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40762034,
+          "CONCEPT_NAME": "Bilirubin [Mass/volume] in Skin",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "58941-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3044439,
+          "CONCEPT_NAME": "Bilirubin.microscopic observation [Identifier] in Tissue by Hall's stain",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "43428-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43534072,
+          "CONCEPT_NAME": "Bilirubin [Moles/volume] in Skin",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "72898-0",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 46236152,
+          "CONCEPT_NAME": "Bilirubin [Presence] in Peritoneal fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "77452-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40761551,
+          "CONCEPT_NAME": "Bilirubin [Presence] in Urine by Confirmatory method",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "58450-8",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3051983,
+          "CONCEPT_NAME": "Bilirubin.total [Interpretation] in Amniotic fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "47225-8",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3006172,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Amniotic fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1972-9",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3017786,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Amniotic fluid by Spectrophotometry direct",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "12476-8",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40762888,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Arterial blood",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "59827-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3028833,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Blood",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "42719-5",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3028193,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Body fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1974-5",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3027110,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Cerebral spinal fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1973-7",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3050148,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Cord blood",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "48624-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3027369,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Dialysis fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14420-4",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3021129,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Gastric fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14424-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3031313,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Pericardial fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "49763-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3011004,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Peritoneal fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14422-0",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3013272,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Pleural fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14421-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3024128,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1975-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3014687,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Synovial fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14423-8",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3010873,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Urine",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1978-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3040519,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Urine by Automated test strip",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "53327-3",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3006513,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Urine by Test strip",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "20505-4",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40762889,
+          "CONCEPT_NAME": "Bilirubin.total [Mass/volume] in Venous blood",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "59828-4",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40762259,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/time] in 24 hour Stool",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "59166-9",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43534099,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/volume] in Amniotic fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "72925-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1175183,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/volume] in Arterial blood",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "89872-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40757494,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/volume] in Blood",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "54363-7",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3012310,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/volume] in Body fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "29767-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 44816798,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/volume] in Cerebral spinal fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "74906-9",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3052927,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/volume] in Cord blood",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "47994-9",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40757493,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/volume] in Dialysis fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "54362-9",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3042045,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/volume] in Peritoneal fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "39461-9",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3006140,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14631-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 46235782,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/volume] in Serum, Plasma or Blood",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "77137-8",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3036768,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/volume] in Unspecified specimen",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "32303-0",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42868673,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/volume] in Urine",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "70199-5",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40770956,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/volume] in Urine by Automated test strip",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "68367-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3041012,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/volume] in Urine by Test strip",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "41016-7",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1175191,
+          "CONCEPT_NAME": "Bilirubin.total [Moles/volume] in Venous blood",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "89871-8",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3044963,
+          "CONCEPT_NAME": "Bilirubin.total [Presence] in 24 hour Urine by Test strip",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "44033-9",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3013204,
+          "CONCEPT_NAME": "Bilirubin.total [Presence] in Amniotic fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "13877-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3045037,
+          "CONCEPT_NAME": "Bilirubin.total [Presence] in Amniotic fluid by Spectrophotometry direct",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "43887-9",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3045256,
+          "CONCEPT_NAME": "Bilirubin.total [Presence] in Body fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "43824-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3038934,
+          "CONCEPT_NAME": "Bilirubin.total [Presence] in Cerebral spinal fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "53415-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3024733,
+          "CONCEPT_NAME": "Bilirubin.total [Presence] in Stool",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1976-0",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3046897,
+          "CONCEPT_NAME": "Bilirubin.total [Presence] in Unspecified specimen",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "33870-7",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3011258,
+          "CONCEPT_NAME": "Bilirubin.total [Presence] in Urine",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1977-8",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3030477,
+          "CONCEPT_NAME": "Bilirubin.total [Presence] in Urine by Automated test strip",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "50551-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3018834,
+          "CONCEPT_NAME": "Bilirubin.total [Presence] in Urine by Test strip",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "5770-3",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3028436,
+          "CONCEPT_NAME": "Bilirubin.total renal clearance in 24 hour Urine and Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1969-5",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 44787077,
+          "CONCEPT_NAME": "Bilirubin.total/Total in Stone by Infrared spectroscopy",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "74434-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3003363,
+          "CONCEPT_NAME": "Bilirubin.total [Units/volume] in Amniotic fluid by Spectrophotometry direct",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "27198-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3032467,
+          "CONCEPT_NAME": "Bilirubin+Urobilinogen [Presence] in Urine",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "50041-3",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3033000,
+          "CONCEPT_NAME": "Neonatal bilirubin panel [Mass/volume] - Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "50189-0",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4118986,
+          "CONCEPT_NAME": "Bilirubin measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "302787001",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4234430,
+          "CONCEPT_NAME": "Bilirubin measurement, amniotic fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "359990005",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4151547,
+          "CONCEPT_NAME": "Bilirubin measurement, body fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "269925008",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4019459,
+          "CONCEPT_NAME": "Bilirubin measurement, stool, qualitative",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "104556004",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4230546,
+          "CONCEPT_NAME": "Bilirubin measurement, urine",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "359992002",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4216632,
+          "CONCEPT_NAME": "Bilirubin, direct measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "39748002",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 44788714,
+          "CONCEPT_NAME": "Bilirubin content measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "195831000000103",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4094445,
+          "CONCEPT_NAME": "Bilirubin concentration, test strip measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "250415002",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4014907,
+          "CONCEPT_NAME": "Bilirubin, albumin bound measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "104554001",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 44804825,
+          "CONCEPT_NAME": "Bilirubin fraction study",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "782401000000108",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4098199,
+          "CONCEPT_NAME": "Urine dipstick for bilirubin",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "252384001",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4197972,
+          "CONCEPT_NAME": "Serum unconjugated bilirubin measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "313842008",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4195338,
+          "CONCEPT_NAME": "Serum total bilirubin measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "313840000",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4154343,
+          "CONCEPT_NAME": "Serum conjugated/total bilirubin ratio measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "271051006",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4198887,
+          "CONCEPT_NAME": "Serum conjugated bilirubin measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "313856005",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4041529,
+          "CONCEPT_NAME": "Serum bilirubin measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "166610007",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4210716,
+          "CONCEPT_NAME": "Plasma unconjugated bilirubin measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "313853002",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4210860,
+          "CONCEPT_NAME": "Plasma total bilirubin measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "313951004",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4195339,
+          "CONCEPT_NAME": "Plasma conjugated bilirubin measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "313841001",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4212334,
+          "CONCEPT_NAME": "Net bilirubin absorbance",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "414847006",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 44789121,
+          "CONCEPT_NAME": "Conjugated/total bilirubin ratio measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "194391000000108",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 44805650,
+          "CONCEPT_NAME": "Conjugated bilirubin measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "754931000000106",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4136724,
+          "CONCEPT_NAME": "Cerebrospinal fluid net bilirubin absorbance",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "412983004",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4199045,
+          "CONCEPT_NAME": "Calculus bilirubin content measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "314059005",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4230543,
+          "CONCEPT_NAME": "Bilirubin, total measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "359986008",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4019457,
+          "CONCEPT_NAME": "Bilirubin renal clearance measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "104550005",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4136740,
+          "CONCEPT_NAME": "Bilirubin profile",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "413054008",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4018181,
+          "CONCEPT_NAME": "Bilirubin, non-glucuronidated measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "104553007",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

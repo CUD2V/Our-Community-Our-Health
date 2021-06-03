@@ -1,0 +1,548 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 44789174,
+          "CONCEPT_NAME": "Free/total protein S ratio measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "194631000000103",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 44805910,
+          "CONCEPT_NAME": "Free protein S antigen measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "789471000000107",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2212687,
+          "CONCEPT_NAME": "Clotting inhibitors or anticoagulants; protein S, free",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "85306",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2212686,
+          "CONCEPT_NAME": "Clotting inhibitors or anticoagulants; protein S, total",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "85305",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37393603,
+          "CONCEPT_NAME": "Plasma free protein S level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1019201000000103",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4306271,
+          "CONCEPT_NAME": "Plasma free protein S measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "165586009",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37393866,
+          "CONCEPT_NAME": "Plasma free:total protein S ratio",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1022701000000108",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4150491,
+          "CONCEPT_NAME": "Plasma free/total protein S ratio measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "271215008",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37399330,
+          "CONCEPT_NAME": "Plasma total protein S level",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1022691000000108",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4306578,
+          "CONCEPT_NAME": "Plasma total protein S measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "165584007",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 44807778,
+          "CONCEPT_NAME": "Protein S activity measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "854531000000102",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3019599,
+          "CONCEPT_NAME": "Protein S actual/normal in Platelet poor plasma by Chromogenic method",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "31102-7",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3036669,
+          "CONCEPT_NAME": "Protein S actual/normal in Platelet poor plasma by Coagulation assay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "27822-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3037201,
+          "CONCEPT_NAME": "Protein S Ag actual/normal in Platelet poor plasma by Immunoassay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "27823-4",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36303398,
+          "CONCEPT_NAME": "Protein S Ag and protein S Ag.free panel - Platelet poor plasma by Immunoassay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "87557-5",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40761582,
+          "CONCEPT_NAME": "Protein S Ag/Coagulation factor IX Ag [Mass Ratio] in Platelet poor plasma by Immunoassay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "58482-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3016412,
+          "CONCEPT_NAME": "Protein S Ag/Coagulation factor VII Ag [Mass Ratio] in Platelet poor plasma by Coagulation assay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "18345-9",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3032706,
+          "CONCEPT_NAME": "Protein S Ag/Coagulation factor X Ag [Mass Ratio] in Platelet poor plasma by Coagulation assay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "49640-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43054971,
+          "CONCEPT_NAME": "Protein S Ag [Units/volume] in Platelet poor plasma by Immunoassay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "72337-9",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37399583,
+          "CONCEPT_NAME": "Protein S antigenic assay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "994451000000105",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4070937,
+          "CONCEPT_NAME": "Protein S assay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "20469004",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 44805916,
+          "CONCEPT_NAME": "Protein S binding protein measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "789601000000101",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3020629,
+          "CONCEPT_NAME": "Protein S Free Ag actual/normal in Platelet poor plasma by Immunoassay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "27821-8",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3026591,
+          "CONCEPT_NAME": "Protein S Free Ag [Units/volume] in Platelet poor plasma by Immunoassay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "4677-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4274809,
+          "CONCEPT_NAME": "Protein S, free assay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "6491004",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4315019,
+          "CONCEPT_NAME": "Protein S, functional assay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "86908003",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4306425,
+          "CONCEPT_NAME": "Protein S function estimate",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "165603007",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37397911,
+          "CONCEPT_NAME": "Protein S function estimate",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "993341000000103",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Observable Entity"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3001182,
+          "CONCEPT_NAME": "Protein S [Units/volume] in Platelet poor plasma by Chromogenic method",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "5893-3",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3002346,
+          "CONCEPT_NAME": "Protein S [Units/volume] in Platelet poor plasma by Coagulation assay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "5892-5",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 44806057,
+          "CONCEPT_NAME": "Total protein S antigen measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "790451000000107",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 44789307,
+          "CONCEPT_NAME": "Total protein S measurement",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "195271000000100",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

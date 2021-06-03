@@ -1,0 +1,242 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 37021210,
+          "CONCEPT_NAME": "Fibrin D-dimer DDU [Mass/volume] in Blood by Immunoassay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "91556-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3031098,
+          "CONCEPT_NAME": "Fibrin D-dimer DDU [Mass/volume] in Cerebral spinal fluid by Latex agglutination",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "42727-8",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3048530,
+          "CONCEPT_NAME": "Fibrin D-dimer DDU [Mass/volume] in Platelet poor plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "48066-5",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3052716,
+          "CONCEPT_NAME": "Fibrin D-dimer DDU [Mass/volume] in Platelet poor plasma by Immunoassay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "48058-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42870366,
+          "CONCEPT_NAME": "Fibrin D-dimer FEU [Mass/volume] in Blood by Immunoassay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "71427-9",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3051714,
+          "CONCEPT_NAME": "Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "48065-7",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3052648,
+          "CONCEPT_NAME": "Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma by Immunoassay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "48067-3",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3037963,
+          "CONCEPT_NAME": "Fibrin D-dimer [Presence] in Cerebral spinal fluid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "42499-4",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3015823,
+          "CONCEPT_NAME": "Fibrin D-dimer [Presence] in Platelet poor plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "15179-5",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3033464,
+          "CONCEPT_NAME": "Fibrin D-dimer [Presence] in Platelet poor plasma by Latex agglutination",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "29280-5",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3038383,
+          "CONCEPT_NAME": "Fibrin D-dimer [Titer] in Platelet poor plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "38898-3",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3023361,
+          "CONCEPT_NAME": "Fibrin D-dimer [Units/volume] in Platelet poor plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "7799-0",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3018737,
+          "CONCEPT_NAME": "Fibrin D-dimer [Units/volume] in Platelet poor plasma by Immunoassay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "3246-6",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40758527,
+          "CONCEPT_NAME": "Short Fibrin D-dimer FEU and DDU panel - Platelet poor plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "55398-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

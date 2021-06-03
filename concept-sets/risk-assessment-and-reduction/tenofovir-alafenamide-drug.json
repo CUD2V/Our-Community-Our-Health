@@ -1,0 +1,21 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 35605546,
+          "CONCEPT_NAME": "tenofovir alafenamide",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1721603",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Ingredient"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

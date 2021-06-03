@@ -1,0 +1,89 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 44782818,
+          "CONCEPT_NAME": "Augmentation of mandible",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "698815005",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103053,
+          "CONCEPT_NAME": "Excision of benign tumor or cyst of mandible; requiring extra-oral osteotomy and partial mandibulectomy (eg, locally aggressive or destructive lesion[s])",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21047",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103052,
+          "CONCEPT_NAME": "Excision of benign tumor or cyst of mandible; requiring intra-oral osteotomy (eg, locally aggressive or destructive lesion[s])",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21046",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 45889276,
+          "CONCEPT_NAME": "Excision of benign tumor or cyst of mandible",
+          "STANDARD_CONCEPT": "C",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1003806",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4030715,
+          "CONCEPT_NAME": "Operation on mandible",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14375003",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

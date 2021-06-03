@@ -1,0 +1,344 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 2102393,
+          "CONCEPT_NAME": "Formation of direct or tubed pedicle, with or without transfer; forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands or feet",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "15574",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102333,
+          "CONCEPT_NAME": "Full thickness graft, free, including direct closure of donor site, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands, and/or feet; 20 sq cm or less",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "15240",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102253,
+          "CONCEPT_NAME": "Adjacent tissue transfer or rearrangement, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands and/or feet; defect 10 sq cm or less",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14040",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102254,
+          "CONCEPT_NAME": "Adjacent tissue transfer or rearrangement, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands and/or feet; defect 10.1 sq cm to 30.0 sq cm",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14041",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102221,
+          "CONCEPT_NAME": "Repair, complex, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands and/or feet; 1.1 cm to 2.5 cm",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "13131",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102334,
+          "CONCEPT_NAME": "Full thickness graft, free, including direct closure of donor site, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands, and/or feet; each additional 20 sq cm, or part thereof (List separately in addition to code for primary procedure)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "15241",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102400,
+          "CONCEPT_NAME": "Forehead flap with preservation of vascular pedicle (eg, axial pattern flap, paramedian forehead flap)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "15731",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102461,
+          "CONCEPT_NAME": "Rhytidectomy; forehead",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "15824",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103112,
+          "CONCEPT_NAME": "Reduction forehead; contouring only",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21137",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103113,
+          "CONCEPT_NAME": "Reduction forehead; contouring and application of prosthetic material or bone graft (includes obtaining autograft)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21138",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103114,
+          "CONCEPT_NAME": "Reduction forehead; contouring and setback of anterior frontal sinus wall",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21139",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103138,
+          "CONCEPT_NAME": "Reconstruction, bifrontal, superior-lateral orbital rims and lower forehead, advancement or alteration (eg, plagiocephaly, trigonocephaly, brachycephaly), with or without grafts (includes obtaining autografts)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21175",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103139,
+          "CONCEPT_NAME": "Reconstruction, entire or majority of forehead and/or supraorbital rims; with grafts (allograft or prosthetic material)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21179",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103140,
+          "CONCEPT_NAME": "Reconstruction, entire or majority of forehead and/or supraorbital rims; with autograft (includes obtaining grafts)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21180",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102232,
+          "CONCEPT_NAME": "Repair, complex, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands and/or feet; 2.6 cm to 7.5 cm",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "13132",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102233,
+          "CONCEPT_NAME": "Repair, complex, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands and/or feet; each additional 5 cm or less (List separately in addition to code for primary procedure)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "13133",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103137,
+          "CONCEPT_NAME": "Reconstruction superior-lateral orbital rim and lower forehead, advancement or alteration, with or without grafts (includes obtaining autografts)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21172",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4234179,
+          "CONCEPT_NAME": "Contouring of forehead",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "439115008",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37311664,
+          "CONCEPT_NAME": "Endoscopic forehead and brow lift",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "789171004",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102397,
+          "CONCEPT_NAME": "Delay of flap or sectioning of flap (division and inset); at forehead, cheeks, chin, neck, axillae, genitalia, hands, or feet",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "15620",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

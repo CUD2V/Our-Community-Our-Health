@@ -1,0 +1,21 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 4119274,
+          "CONCEPT_NAME": "Augmentation mammoplasty",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "22890008",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

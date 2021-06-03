@@ -1,0 +1,259 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 40768174,
+          "CONCEPT_NAME": "I felt sad [CES-DC]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "65480-6",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Clinical Observation"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40768175,
+          "CONCEPT_NAME": "I felt people didn't like me [CES-DC]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "65481-4",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Clinical Observation"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40768172,
+          "CONCEPT_NAME": "I had a good time [CES-DC]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "65478-0",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Clinical Observation"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40768173,
+          "CONCEPT_NAME": "I felt like crying [CES-DC]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "65479-8",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Clinical Observation"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40768170,
+          "CONCEPT_NAME": "I felt lonely, like I didn't have any friends [CES-DC]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "65476-4",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Clinical Observation"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40768171,
+          "CONCEPT_NAME": "I felt like kids I know were not friendly or that they didn't want to be with me [CES-DC]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "65477-2",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Clinical Observation"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40768168,
+          "CONCEPT_NAME": "I was happy [CES-DC]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "65474-9",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Clinical Observation"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40768169,
+          "CONCEPT_NAME": "I was more quiet than usual [CES-DC]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "65475-6",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Clinical Observation"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40768166,
+          "CONCEPT_NAME": "I felt scared [CES-DC]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "65472-3",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Clinical Observation"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40768167,
+          "CONCEPT_NAME": "I didn't sleep as well as I usually sleep [CES-DC]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "65473-1",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Clinical Observation"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40768164,
+          "CONCEPT_NAME": "I felt like something good was going to happen [CES-DC]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "65470-7",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Clinical Observation"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40768165,
+          "CONCEPT_NAME": "I felt like things I did before didn't work out right [CES-DC]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "65471-5",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Clinical Observation"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40768162,
+          "CONCEPT_NAME": "I felt down and unhappy [CES-DC]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "65468-1",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Clinical Observation"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40768163,
+          "CONCEPT_NAME": "I felt like I was too tired to do things [CES-DC]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "65469-9",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Clinical Observation"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40768160,
+          "CONCEPT_NAME": "I felt like I was just as good as other kids [CES-DC]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "65466-5",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Clinical Observation"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

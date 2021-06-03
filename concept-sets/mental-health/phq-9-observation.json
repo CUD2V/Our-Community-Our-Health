@@ -1,0 +1,72 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 36304380,
+          "CONCEPT_NAME": "Resident mood interview (PHQ-9) - symptom presence in the last 2 weeks [CMS Assessment]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "86843-0",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Survey"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 36304124,
+          "CONCEPT_NAME": "Resident mood interview (PHQ-9) - symptom frequency in the last 2 weeks [CMS Assessment]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "86844-8",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Survey"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40757788,
+          "CONCEPT_NAME": "Staff assessment of resident mood (PHQ-9-OV) [Observed PHQ-9 CMS]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "54657-2",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Survey"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40757766,
+          "CONCEPT_NAME": "Resident mood interview (PHQ-9) [Reported PHQ-9 CMS]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "54635-8",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Survey"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

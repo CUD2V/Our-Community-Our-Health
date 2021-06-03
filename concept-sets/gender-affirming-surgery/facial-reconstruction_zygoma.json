@@ -1,0 +1,191 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 2761103,
+          "CONCEPT_NAME": "Insertion of Internal Fixation Device into Left Zygomatic Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NHN04Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2761100,
+          "CONCEPT_NAME": "Insertion of Internal Fixation Device into Right Zygomatic Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NHM04Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759628,
+          "CONCEPT_NAME": "Replacement of Left Zygomatic Bone with Synthetic Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NRN0JZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758925,
+          "CONCEPT_NAME": "Replacement of Right Zygomatic Bone with Nonautologous Tissue Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NRM0KZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758924,
+          "CONCEPT_NAME": "Replacement of Right Zygomatic Bone with Synthetic Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NRM0JZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759392,
+          "CONCEPT_NAME": "Reposition Left Zygomatic Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NSN0ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759391,
+          "CONCEPT_NAME": "Reposition Left Zygomatic Bone with Internal Fixation Device, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NSN04Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759384,
+          "CONCEPT_NAME": "Reposition Right Zygomatic Bone with Internal Fixation Device, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NSM04Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764701,
+          "CONCEPT_NAME": "Supplement Right Zygomatic Bone with Autologous Tissue Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NUM07Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764703,
+          "CONCEPT_NAME": "Supplement Right Zygomatic Bone with Nonautologous Tissue Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NUM0KZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4343814,
+          "CONCEPT_NAME": "Zygomatic augmentation",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "239391007",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

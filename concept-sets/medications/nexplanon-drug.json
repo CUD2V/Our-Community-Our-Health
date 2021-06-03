@@ -1,0 +1,21 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 40240085,
+          "CONCEPT_NAME": "etonogestrel Drug Implant [Nexplanon]",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1111010",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Branded Drug Form"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }
