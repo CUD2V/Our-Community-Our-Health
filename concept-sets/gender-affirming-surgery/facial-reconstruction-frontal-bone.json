@@ -1,0 +1,531 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 2758575,
+          "CONCEPT_NAME": "Division of Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0N810ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758578,
+          "CONCEPT_NAME": "Division of Left Frontal Bone, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0N820ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758859,
+          "CONCEPT_NAME": "Drainage of Left Frontal Bone with Drainage Device, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0N9200Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759847,
+          "CONCEPT_NAME": "Excision of Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NB10ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759846,
+          "CONCEPT_NAME": "Excision of Frontal Bone, Open Approach, Diagnostic",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NB10ZX",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759853,
+          "CONCEPT_NAME": "Excision of Left Frontal Bone, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NB20ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759852,
+          "CONCEPT_NAME": "Excision of Left Frontal Bone, Open Approach, Diagnostic (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NB20ZX",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2760574,
+          "CONCEPT_NAME": "Extirpation of Matter from Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NC10ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43017451,
+          "CONCEPT_NAME": "Extraction of Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0ND10ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2760852,
+          "CONCEPT_NAME": "Insertion of Internal Fixation Device into Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NH104Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2760855,
+          "CONCEPT_NAME": "Insertion of Internal Fixation Device into Left Frontal Bone, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NH204Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2757891,
+          "CONCEPT_NAME": "Repair Frontal Bone, External Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NQ1XZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2757888,
+          "CONCEPT_NAME": "Repair Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NQ10ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2757895,
+          "CONCEPT_NAME": "Repair Left Frontal Bone, External Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NQ2XZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2757892,
+          "CONCEPT_NAME": "Repair Left Frontal Bone, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NQ20ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758386,
+          "CONCEPT_NAME": "Replacement of Frontal Bone with Autologous Tissue Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NR107Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758388,
+          "CONCEPT_NAME": "Replacement of Frontal Bone with Nonautologous Tissue Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NR10KZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758387,
+          "CONCEPT_NAME": "Replacement of Frontal Bone with Synthetic Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NR10JZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758393,
+          "CONCEPT_NAME": "Replacement of Frontal Bone with Synthetic Substitute, Percutaneous Endoscopic Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NR14JZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758395,
+          "CONCEPT_NAME": "Replacement of Left Frontal Bone with Autologous Tissue Substitute, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NR207Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758396,
+          "CONCEPT_NAME": "Replacement of Left Frontal Bone with Synthetic Substitute, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NR20JZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759141,
+          "CONCEPT_NAME": "Reposition Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NS10ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759140,
+          "CONCEPT_NAME": "Reposition Frontal Bone with Internal Fixation Device, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NS104Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759147,
+          "CONCEPT_NAME": "Reposition Left Frontal Bone with Internal Fixation Device, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NS204Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2768120,
+          "CONCEPT_NAME": "Resection of Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NT10ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764171,
+          "CONCEPT_NAME": "Supplement Frontal Bone with Autologous Tissue Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NU107Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764177,
+          "CONCEPT_NAME": "Supplement Frontal Bone with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NU147Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764173,
+          "CONCEPT_NAME": "Supplement Frontal Bone with Nonautologous Tissue Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NU10KZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764172,
+          "CONCEPT_NAME": "Supplement Frontal Bone with Synthetic Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NU10JZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764180,
+          "CONCEPT_NAME": "Supplement Left Frontal Bone with Autologous Tissue Substitute, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NU207Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764181,
+          "CONCEPT_NAME": "Supplement Left Frontal Bone with Synthetic Substitute, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NU20JZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

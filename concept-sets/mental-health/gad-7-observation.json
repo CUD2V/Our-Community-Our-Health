@@ -1,0 +1,21 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 40772159,
+          "CONCEPT_NAME": "Generalized anxiety disorder 7 item (GAD-7)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "69737-5",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Survey"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

@@ -1,0 +1,38 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 37311286,
+          "CONCEPT_NAME": "Vaping",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "816134008",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Event"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1333299,
+          "CONCEPT_NAME": "In the past month: Did you use any type of electronic nicotine product? This includes e- cigarettes, vape pens, hookah pens, personal vaporizers and mods, e-cigars, e-pipes, and e-hookahs.",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "lifestyle_2_xx13",
+          "DOMAIN_ID": "Observation",
+          "VOCABULARY_ID": "PPI",
+          "CONCEPT_CLASS_ID": "Question"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

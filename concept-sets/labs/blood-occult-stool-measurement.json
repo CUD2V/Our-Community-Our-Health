@@ -1,0 +1,684 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 3030153,
+          "CONCEPT_NAME": "Occult blood panel - Stool",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "50196-5",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2212235,
+          "CONCEPT_NAME": "Blood, occult, by fecal hemoglobin determination by immunoassay, qualitative, feces, 1-3 simultaneous determinations",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "82274",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2617406,
+          "CONCEPT_NAME": "Colorectal cancer screening; fecal occult blood test, immunoassay, 1-3 simultaneous",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "G0328",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "HCPCS",
+          "CONCEPT_CLASS_ID": "HCPCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 45890624,
+          "CONCEPT_NAME": "Colorectal cancer screening; stool-based dna and fecal occult hemoglobin (e.g., kras, ndrg4 and bmp3)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "D",
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_CODE": "G0464",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "HCPCS",
+          "CONCEPT_CLASS_ID": "HCPCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40484041,
+          "CONCEPT_NAME": "Measurement of occult blood in single stool specimen",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "442563002",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3451555,
+          "CONCEPT_NAME": "Measurement of occult blood in single stool specimen",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "442563002",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "Nebraska Lexicon",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40479630,
+          "CONCEPT_NAME": "Measurement of occult blood in stool specimen using immunoassay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "441579003",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3453177,
+          "CONCEPT_NAME": "Measurement of occult blood in stool specimen using immunoassay",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "441579003",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "Nebraska Lexicon",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3455416,
+          "CONCEPT_NAME": "Measurement of occult blood in three separate stool specimens",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "442516004",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "Nebraska Lexicon",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40483624,
+          "CONCEPT_NAME": "Measurement of occult blood in three separate stool specimens",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "442516004",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3431566,
+          "CONCEPT_NAME": "Measurement of occult blood in two separate stool specimens",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "442067009",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "Nebraska Lexicon",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40481809,
+          "CONCEPT_NAME": "Measurement of occult blood in two separate stool specimens",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "442067009",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 46236058,
+          "CONCEPT_NAME": "Noninvasive colorectal cancer DNA and occult blood screening [Interpretation] in Stool Narrative",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "77353-1",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 46236059,
+          "CONCEPT_NAME": "Noninvasive colorectal cancer DNA and occult blood screening [Presence] in Stool",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "77354-9",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40760913,
+          "CONCEPT_NAME": "Number of occult blood specimens recommended by testing kit protocol [#] in Stool",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "57804-7",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40760912,
+          "CONCEPT_NAME": "Occult blood panel - Stool by Immunoassay",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "57803-9",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42363868,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0318",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42361701,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0319",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42364941,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0320",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42334613,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb),Diagnostic and laboratory test qualitative addition(1%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0319004",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42334508,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb),Diagnostic and laboratory test qualitative addition(1%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0320004",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42334598,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb),Diagnostic and laboratory test qualitative addition(1%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0318004",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42337588,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb),Diagnostic and laboratory test qualitative addition(2%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0320003",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42338754,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb),Diagnostic and laboratory test qualitative addition(2%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0318003",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42337573,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb),Diagnostic and laboratory test qualitative addition(2%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0319003",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42341894,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb),Diagnostic and laboratory test qualitative addition(3%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0318002",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42340670,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb),Diagnostic and laboratory test qualitative addition(3%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0319002",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42340805,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb),Diagnostic and laboratory test qualitative addition(3%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0320002",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42339913,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb),Diagnostic and laboratory test qualitative addition(4%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0319001",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42343762,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb),Diagnostic and laboratory test qualitative addition(4%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0320001",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42343740,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb),Diagnostic and laboratory test qualitative addition(4%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0318001",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42348928,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb),Nuclear medicine examination qualitative addition(4%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0320007",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42348950,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb),Nuclear medicine examination qualitative addition(4%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0318007",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42348426,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb),Nuclear medicine examination qualitative addition(4%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0319007",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42364568,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb & Transferrin 포함)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0315",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42335098,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb & Transferrin 포함),Diagnostic and laboratory test qualitative addition(1%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0315004",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42337529,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb & Transferrin 포함),Diagnostic and laboratory test qualitative addition(2%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0315003",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42341121,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb & Transferrin 포함),Diagnostic and laboratory test qualitative addition(3%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0315002",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42344074,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb & Transferrin 포함),Diagnostic and laboratory test qualitative addition(4%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0315001",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42348833,
+          "CONCEPT_NAME": "Stool Occult Blood(Hb & Transferrin 포함),Nuclear medicine examination qualitative addition(4%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D0315007",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

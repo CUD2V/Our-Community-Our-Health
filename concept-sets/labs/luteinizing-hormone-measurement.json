@@ -1,0 +1,344 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 3476422,
+          "CONCEPT_NAME": "Luteinizing hormone/follicle stimulating hormone measurement",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "250660006",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "Nebraska Lexicon",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42349736,
+          "CONCEPT_NAME": "Gonadotropin- Luteinizing Hormone,Nuclear medicine examination qualitative addition(4%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D3703027",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42363933,
+          "CONCEPT_NAME": "GnRH-Induced Luteinizing Hormone Stimulation Test",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "F0913",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Meas Class"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42365762,
+          "CONCEPT_NAME": "Gonadotropin- Luteinizing Hormone",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D3701010",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42363146,
+          "CONCEPT_NAME": "Gonadotropin- Luteinizing Hormone",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D3702030",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42365527,
+          "CONCEPT_NAME": "Gonadotropin- Luteinizing Hormone",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D3703020",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42335486,
+          "CONCEPT_NAME": "Gonadotropin- Luteinizing Hormone,Diagnostic and laboratory test qualitative addition(1%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D3702034",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42334673,
+          "CONCEPT_NAME": "Gonadotropin- Luteinizing Hormone,Diagnostic and laboratory test qualitative addition(1%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D3701014",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42337712,
+          "CONCEPT_NAME": "Gonadotropin- Luteinizing Hormone,Diagnostic and laboratory test qualitative addition(2%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D3701013",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42338733,
+          "CONCEPT_NAME": "Gonadotropin- Luteinizing Hormone,Diagnostic and laboratory test qualitative addition(2%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D3702033",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42341702,
+          "CONCEPT_NAME": "Gonadotropin- Luteinizing Hormone,Diagnostic and laboratory test qualitative addition(3%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D3702032",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42340934,
+          "CONCEPT_NAME": "Gonadotropin- Luteinizing Hormone,Diagnostic and laboratory test qualitative addition(3%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D3701012",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42344526,
+          "CONCEPT_NAME": "Gonadotropin- Luteinizing Hormone,Diagnostic and laboratory test qualitative addition(4%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D3702031",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42343888,
+          "CONCEPT_NAME": "Gonadotropin- Luteinizing Hormone,Diagnostic and laboratory test qualitative addition(4%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D3701011",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 42350042,
+          "CONCEPT_NAME": "Gonadotropin- Luteinizing Hormone,Nuclear medicine examination qualitative addition(4%)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "D3701017",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_CLASS_ID": "Proc Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3440030,
+          "CONCEPT_NAME": "Luteinizing hormone releasing hormone test",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "252200005",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "Nebraska Lexicon",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3466242,
+          "CONCEPT_NAME": "Plasma luteinizing hormone measurement",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "313445003",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "Nebraska Lexicon",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3446783,
+          "CONCEPT_NAME": "Urine luteinizing hormone 24 hour assay",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "167396000",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "Nebraska Lexicon",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40309537,
+          "CONCEPT_NAME": "Urine luteinizing hormone level",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "U",
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_CODE": "144615005",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3476754,
+          "CONCEPT_NAME": "Urine luteinizing hormone measurement",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "167381004",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "Nebraska Lexicon",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

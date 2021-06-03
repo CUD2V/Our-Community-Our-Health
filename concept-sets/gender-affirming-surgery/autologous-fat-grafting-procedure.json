@@ -1,0 +1,38 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 709758,
+          "CONCEPT_NAME": "Grafting of autologous fat harvested by liposuction technique to face, eyelids, mouth, neck, ears, orbits, genitalia, hands, and/or feet",
+          "STANDARD_CONCEPT": "C",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1035644",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 709757,
+          "CONCEPT_NAME": "Grafting of autologous fat harvested by liposuction technique to trunk, breasts, scalp, arms, and/or legs",
+          "STANDARD_CONCEPT": "C",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1035643",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }
