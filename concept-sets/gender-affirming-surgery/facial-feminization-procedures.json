@@ -1,0 +1,1347 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 2102254,
+          "CONCEPT_NAME": "Adjacent tissue transfer or rearrangement, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands and/or feet; defect 10.1 sq cm to 30.0 sq cm",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14041",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102253,
+          "CONCEPT_NAME": "Adjacent tissue transfer or rearrangement, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands and/or feet; defect 10 sq cm or less",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14040",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 44782818,
+          "CONCEPT_NAME": "Augmentation of mandible",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "698815005",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4234179,
+          "CONCEPT_NAME": "Contouring of forehead",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "439115008",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102397,
+          "CONCEPT_NAME": "Delay of flap or sectioning of flap (division and inset); at forehead, cheeks, chin, neck, axillae, genitalia, hands, or feet",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "15620",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758575,
+          "CONCEPT_NAME": "Division of Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0N810ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758578,
+          "CONCEPT_NAME": "Division of Left Frontal Bone, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0N820ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758859,
+          "CONCEPT_NAME": "Drainage of Left Frontal Bone with Drainage Device, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0N9200Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 37311664,
+          "CONCEPT_NAME": "Endoscopic forehead and brow lift",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "789171004",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 45889276,
+          "CONCEPT_NAME": "Excision of benign tumor or cyst of mandible",
+          "STANDARD_CONCEPT": "C",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1003806",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103053,
+          "CONCEPT_NAME": "Excision of benign tumor or cyst of mandible; requiring extra-oral osteotomy and partial mandibulectomy (eg, locally aggressive or destructive lesion[s])",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21047",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103052,
+          "CONCEPT_NAME": "Excision of benign tumor or cyst of mandible; requiring intra-oral osteotomy (eg, locally aggressive or destructive lesion[s])",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21046",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2108602,
+          "CONCEPT_NAME": "Excision of frenum, labial or buccal (frenumectomy, frenulectomy, frenectomy)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "40819",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759847,
+          "CONCEPT_NAME": "Excision of Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NB10ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759846,
+          "CONCEPT_NAME": "Excision of Frontal Bone, Open Approach, Diagnostic",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NB10ZX",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759853,
+          "CONCEPT_NAME": "Excision of Left Frontal Bone, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NB20ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759852,
+          "CONCEPT_NAME": "Excision of Left Frontal Bone, Open Approach, Diagnostic (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NB20ZX",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2760574,
+          "CONCEPT_NAME": "Extirpation of Matter from Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NC10ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 43017451,
+          "CONCEPT_NAME": "Extraction of Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0ND10ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3177289,
+          "CONCEPT_NAME": "Facial reconstruction",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "17110001000004102",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "Nebraska Lexicon",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4300311,
+          "CONCEPT_NAME": "Facial rhytidoplasty",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "77726006",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102400,
+          "CONCEPT_NAME": "Forehead flap with preservation of vascular pedicle (eg, axial pattern flap, paramedian forehead flap)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "15731",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102393,
+          "CONCEPT_NAME": "Formation of direct or tubed pedicle, with or without transfer; forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands or feet",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "15574",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102333,
+          "CONCEPT_NAME": "Full thickness graft, free, including direct closure of donor site, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands, and/or feet; 20 sq cm or less",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "15240",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102334,
+          "CONCEPT_NAME": "Full thickness graft, free, including direct closure of donor site, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands, and/or feet; each additional 20 sq cm, or part thereof (List separately in addition to code for primary procedure)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "15241",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 709758,
+          "CONCEPT_NAME": "Grafting of autologous fat harvested by liposuction technique to face, eyelids, mouth, neck, ears, orbits, genitalia, hands, and/or feet",
+          "STANDARD_CONCEPT": "C",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1035644",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 709757,
+          "CONCEPT_NAME": "Grafting of autologous fat harvested by liposuction technique to trunk, breasts, scalp, arms, and/or legs",
+          "STANDARD_CONCEPT": "C",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "1035643",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4 Hierarchy"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2760852,
+          "CONCEPT_NAME": "Insertion of Internal Fixation Device into Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NH104Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2760855,
+          "CONCEPT_NAME": "Insertion of Internal Fixation Device into Left Frontal Bone, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NH204Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2761103,
+          "CONCEPT_NAME": "Insertion of Internal Fixation Device into Left Zygomatic Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NHN04Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2761100,
+          "CONCEPT_NAME": "Insertion of Internal Fixation Device into Right Zygomatic Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NHM04Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4118090,
+          "CONCEPT_NAME": "Liposuction of subcutaneous tissue",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "302441008",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103215,
+          "CONCEPT_NAME": "Malar augmentation, prosthetic material",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21270",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4030715,
+          "CONCEPT_NAME": "Operation on mandible",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14375003",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103173,
+          "CONCEPT_NAME": "Osteoplasty, facial bones; augmentation (autograft, allograft, or prosthetic implant)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21208",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103260,
+          "CONCEPT_NAME": "Percutaneous treatment of fracture of malar area, including zygomatic arch and malar tripod, with manipulation",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21355",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103138,
+          "CONCEPT_NAME": "Reconstruction, bifrontal, superior-lateral orbital rims and lower forehead, advancement or alteration (eg, plagiocephaly, trigonocephaly, brachycephaly), with or without grafts (includes obtaining autografts)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21175",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103140,
+          "CONCEPT_NAME": "Reconstruction, entire or majority of forehead and/or supraorbital rims; with autograft (includes obtaining grafts)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21180",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103139,
+          "CONCEPT_NAME": "Reconstruction, entire or majority of forehead and/or supraorbital rims; with grafts (allograft or prosthetic material)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21179",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4048622,
+          "CONCEPT_NAME": "Reconstruction of nose",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "232470004",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103137,
+          "CONCEPT_NAME": "Reconstruction superior-lateral orbital rim and lower forehead, advancement or alteration, with or without grafts (includes obtaining autografts)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21172",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103113,
+          "CONCEPT_NAME": "Reduction forehead; contouring and application of prosthetic material or bone graft (includes obtaining autograft)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21138",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103114,
+          "CONCEPT_NAME": "Reduction forehead; contouring and setback of anterior frontal sinus wall",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21139",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2103112,
+          "CONCEPT_NAME": "Reduction forehead; contouring only",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "21137",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102221,
+          "CONCEPT_NAME": "Repair, complex, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands and/or feet; 1.1 cm to 2.5 cm",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "13131",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102232,
+          "CONCEPT_NAME": "Repair, complex, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands and/or feet; 2.6 cm to 7.5 cm",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "13132",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102233,
+          "CONCEPT_NAME": "Repair, complex, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands and/or feet; each additional 5 cm or less (List separately in addition to code for primary procedure)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "13133",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2757891,
+          "CONCEPT_NAME": "Repair Frontal Bone, External Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NQ1XZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2757888,
+          "CONCEPT_NAME": "Repair Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NQ10ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2757895,
+          "CONCEPT_NAME": "Repair Left Frontal Bone, External Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NQ2XZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2757892,
+          "CONCEPT_NAME": "Repair Left Frontal Bone, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NQ20ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758386,
+          "CONCEPT_NAME": "Replacement of Frontal Bone with Autologous Tissue Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NR107Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758388,
+          "CONCEPT_NAME": "Replacement of Frontal Bone with Nonautologous Tissue Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NR10KZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758387,
+          "CONCEPT_NAME": "Replacement of Frontal Bone with Synthetic Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NR10JZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758393,
+          "CONCEPT_NAME": "Replacement of Frontal Bone with Synthetic Substitute, Percutaneous Endoscopic Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NR14JZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758395,
+          "CONCEPT_NAME": "Replacement of Left Frontal Bone with Autologous Tissue Substitute, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NR207Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758396,
+          "CONCEPT_NAME": "Replacement of Left Frontal Bone with Synthetic Substitute, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NR20JZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759628,
+          "CONCEPT_NAME": "Replacement of Left Zygomatic Bone with Synthetic Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NRN0JZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758925,
+          "CONCEPT_NAME": "Replacement of Right Zygomatic Bone with Nonautologous Tissue Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NRM0KZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2758924,
+          "CONCEPT_NAME": "Replacement of Right Zygomatic Bone with Synthetic Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NRM0JZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759141,
+          "CONCEPT_NAME": "Reposition Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NS10ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759140,
+          "CONCEPT_NAME": "Reposition Frontal Bone with Internal Fixation Device, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NS104Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759147,
+          "CONCEPT_NAME": "Reposition Left Frontal Bone with Internal Fixation Device, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NS204Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759392,
+          "CONCEPT_NAME": "Reposition Left Zygomatic Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NSN0ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759391,
+          "CONCEPT_NAME": "Reposition Left Zygomatic Bone with Internal Fixation Device, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NSN04Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2759384,
+          "CONCEPT_NAME": "Reposition Right Zygomatic Bone with Internal Fixation Device, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NSM04Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2768120,
+          "CONCEPT_NAME": "Resection of Frontal Bone, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NT10ZZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102474,
+          "CONCEPT_NAME": "Rhytidectomy; cheek, chin, and neck",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "15828",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102461,
+          "CONCEPT_NAME": "Rhytidectomy; forehead",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "15824",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764171,
+          "CONCEPT_NAME": "Supplement Frontal Bone with Autologous Tissue Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NU107Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764177,
+          "CONCEPT_NAME": "Supplement Frontal Bone with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NU147Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764173,
+          "CONCEPT_NAME": "Supplement Frontal Bone with Nonautologous Tissue Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NU10KZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764172,
+          "CONCEPT_NAME": "Supplement Frontal Bone with Synthetic Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NU10JZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764180,
+          "CONCEPT_NAME": "Supplement Left Frontal Bone with Autologous Tissue Substitute, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NU207Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764181,
+          "CONCEPT_NAME": "Supplement Left Frontal Bone with Synthetic Substitute, Open Approach (Deprecated)",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NU20JZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764701,
+          "CONCEPT_NAME": "Supplement Right Zygomatic Bone with Autologous Tissue Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NUM07Z",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2764703,
+          "CONCEPT_NAME": "Supplement Right Zygomatic Bone with Nonautologous Tissue Substitute, Open Approach",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "0NUM0KZ",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "ICD10PCS",
+          "CONCEPT_CLASS_ID": "ICD10PCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 2102657,
+          "CONCEPT_NAME": "Unlisted procedure, skin, mucous membrane and subcutaneous tissue",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "17999",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_CLASS_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 4343814,
+          "CONCEPT_NAME": "Zygomatic augmentation",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "239391007",
+          "DOMAIN_ID": "Procedure",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_CLASS_ID": "Procedure"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }
