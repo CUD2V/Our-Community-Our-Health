@@ -1,0 +1,72 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 1500211,
+          "CONCEPT_NAME": "medroxyprogesterone",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "6691",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Ingredient"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 19077143,
+          "CONCEPT_NAME": "17-alpha-hydroxyprogesterone",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "5542",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Ingredient"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1548195,
+          "CONCEPT_NAME": "estradiol",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "4083",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Ingredient"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1552310,
+          "CONCEPT_NAME": "progesterone",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "8727",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Ingredient"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

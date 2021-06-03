@@ -1,0 +1,174 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 1560104,
+          "CONCEPT_NAME": "elagolix",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "2049846",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Ingredient"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 19058410,
+          "CONCEPT_NAME": "degarelix",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "475230",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Ingredient"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1366310,
+          "CONCEPT_NAME": "goserelin",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "50610",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Ingredient"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 19010868,
+          "CONCEPT_NAME": "abarelix",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "301739",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Ingredient"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1351541,
+          "CONCEPT_NAME": "leuprolide",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "42375",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Ingredient"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1366773,
+          "CONCEPT_NAME": "histrelin",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "50975",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Ingredient"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1343039,
+          "CONCEPT_NAME": "triptorelin",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "38782",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Ingredient"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1507558,
+          "CONCEPT_NAME": "nafarelin",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "28656",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Ingredient"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1536743,
+          "CONCEPT_NAME": "ganirelix",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "35825",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Ingredient"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 1503983,
+          "CONCEPT_NAME": "cetrorelix",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "68147",
+          "DOMAIN_ID": "Drug",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_CLASS_ID": "Ingredient"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }
