@@ -1,0 +1,225 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_ID": 3033837,
+          "CONCEPT_NAME": "Creatinine/Urea nitrogen [Mass Ratio] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "31045-8",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3051542,
+          "CONCEPT_NAME": "HEDIS 2009 Codes to identify physiologic monitoring tests - Blood urea nitrogen (BUN) (MPM-A)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "D",
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_CODE": "54051-8",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40760919,
+          "CONCEPT_NAME": "HEDIS 2010, 2011 Codes to identify physiologic monitoring tests - Blood urea nitrogen (BUN) (MPM-A)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "D",
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_CODE": "57810-4",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40770371,
+          "CONCEPT_NAME": "HEDIS 2012, 2013 Codes to identify physiologic monitoring tests - Blood urea nitrogen (BUN) (MPM-A)",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "D",
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_CODE": "67763-3",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 44786893,
+          "CONCEPT_NAME": "HEDIS 2014 Value Set - Blood Urea Nitrogen",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "D",
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_CODE": "74238-7",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3046485,
+          "CONCEPT_NAME": "Urea nitrogen/Creatinine [Mass Ratio] in Blood",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "44734-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3018311,
+          "CONCEPT_NAME": "Urea nitrogen/Creatinine [Mass Ratio] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "3097-3",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3031156,
+          "CONCEPT_NAME": "Urea nitrogen [Mass or Moles/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "INVALID_REASON": "D",
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_CODE": "35234-4",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3004295,
+          "CONCEPT_NAME": "Urea nitrogen [Mass/volume] in Blood",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "6299-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3028280,
+          "CONCEPT_NAME": "Urea nitrogen [Mass/volume] in Blood --baseline",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "12964-3",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3013682,
+          "CONCEPT_NAME": "Urea nitrogen [Mass/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "3094-0",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 40762632,
+          "CONCEPT_NAME": "Urea nitrogen [Moles/volume] in Blood",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "59570-2",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_ID": 3024641,
+          "CONCEPT_NAME": "Urea nitrogen [Moles/volume] in Serum or Plasma",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_CODE": "14937-7",
+          "DOMAIN_ID": "Measurement",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_CLASS_ID": "Lab Test"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }
