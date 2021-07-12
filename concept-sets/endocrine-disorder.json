@@ -14,7 +14,7 @@
           "CONCEPT_CLASS_ID": "Clinical Finding"
         },
         "isExcluded": false,
-        "includeDescendants": true,
+        "includeDescendants": false,
         "includeMapped": false
       }
     ]
