@@ -1,21 +1,55 @@
 {
-    "items": [
-      {
-        "concept": {
-          "CONCEPT_ID": 31821,
-          "CONCEPT_NAME": "Disorder of endocrine system",
-          "STANDARD_CONCEPT": "S",
-          "STANDARD_CONCEPT_CAPTION": "Standard",
-          "INVALID_REASON": "V",
-          "INVALID_REASON_CAPTION": "Valid",
-          "CONCEPT_CODE": "362969004",
-          "DOMAIN_ID": "Condition",
-          "VOCABULARY_ID": "SNOMED",
-          "CONCEPT_CLASS_ID": "Clinical Finding"
-        },
-        "isExcluded": false,
-        "includeDescendants": false,
-        "includeMapped": false
-      }
-    ]
-  }
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 31821,
+        "CONCEPT_NAME": "Disorder of endocrine system",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "362969004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding"
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35206962,
+        "CONCEPT_NAME": "Endocrine disorder, unspecified",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "E34.9",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "ICD10CM",
+        "CONCEPT_CLASS_ID": "4-char billing code"
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44827625,
+        "CONCEPT_NAME": "Unspecified endocrine disorder",
+        "STANDARD_CONCEPT": "N",
+        "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "259.9",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "ICD9CM",
+        "CONCEPT_CLASS_ID": "4-dig billing code"
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    }
+  ]
+}
