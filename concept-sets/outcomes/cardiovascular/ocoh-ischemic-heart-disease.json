@@ -1,0 +1,395 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "78741000119103",
+          "CONCEPT_ID": 44784623,
+          "CONCEPT_NAME": "Acute coronary artery occlusion not resulting in myocardial infarction",
+          "DOMAIN_ID": "Condition",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "MS-DRG",
+          "CONCEPT_CODE": "281",
+          "CONCEPT_ID": 38001109,
+          "CONCEPT_NAME": "Acute myocardial infarction, discharged alive w CC",
+          "DOMAIN_ID": "Observation",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "DRG"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "MS-DRG",
+          "CONCEPT_CODE": "280",
+          "CONCEPT_ID": 38001108,
+          "CONCEPT_NAME": "Acute myocardial infarction, discharged alive w MCC",
+          "DOMAIN_ID": "Observation",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "DRG"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "MS-DRG",
+          "CONCEPT_CODE": "282",
+          "CONCEPT_ID": 38001110,
+          "CONCEPT_NAME": "Acute myocardial infarction, discharged alive w/o CC/MCC",
+          "DOMAIN_ID": "Observation",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "DRG"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "MS-DRG",
+          "CONCEPT_CODE": "284",
+          "CONCEPT_ID": 38001112,
+          "CONCEPT_NAME": "Acute myocardial infarction, expired w CC",
+          "DOMAIN_ID": "Observation",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "DRG"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "MS-DRG",
+          "CONCEPT_CODE": "283",
+          "CONCEPT_ID": 38001111,
+          "CONCEPT_NAME": "Acute myocardial infarction, expired w MCC",
+          "DOMAIN_ID": "Observation",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "DRG"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "MS-DRG",
+          "CONCEPT_CODE": "285",
+          "CONCEPT_ID": 38001113,
+          "CONCEPT_NAME": "Acute myocardial infarction, expired w/o CC/MCC",
+          "DOMAIN_ID": "Observation",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "DRG"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "MS-DRG",
+          "CONCEPT_CODE": "311",
+          "CONCEPT_ID": 38001139,
+          "CONCEPT_NAME": "Angina pectoris",
+          "DOMAIN_ID": "Observation",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "DRG"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Observation",
+          "CONCEPT_CODE": "58320-3",
+          "CONCEPT_ID": 40761421,
+          "CONCEPT_NAME": "Angina pectoris in interim",
+          "DOMAIN_ID": "Observation",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "LOINC"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "429673002",
+          "CONCEPT_ID": 443563,
+          "CONCEPT_NAME": "Arteriosclerosis of coronary artery bypass graft",
+          "DOMAIN_ID": "Condition",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "194863005",
+          "CONCEPT_ID": 438172,
+          "CONCEPT_NAME": "Atrial septal defect due to and following acute myocardial infarction",
+          "DOMAIN_ID": "Condition",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "194821006",
+          "CONCEPT_ID": 4108215,
+          "CONCEPT_NAME": "Coronary thrombosis not resulting in myocardial infarction",
+          "DOMAIN_ID": "Condition",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "194862000",
+          "CONCEPT_ID": 4108678,
+          "CONCEPT_NAME": "Hemopericardium due to and following acute myocardial infarction",
+          "DOMAIN_ID": "Condition",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Context-dependent",
+          "CONCEPT_CODE": "399211009",
+          "CONCEPT_ID": 4163874,
+          "CONCEPT_NAME": "History of myocardial infarction",
+          "DOMAIN_ID": "Observation",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": true,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "414545008",
+          "CONCEPT_ID": 4185932,
+          "CONCEPT_NAME": "Ischemic heart disease",
+          "DOMAIN_ID": "Condition",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Observation",
+          "CONCEPT_CODE": "58258-5",
+          "CONCEPT_ID": 40761359,
+          "CONCEPT_NAME": "Myocardial infarction",
+          "DOMAIN_ID": "Observation",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "LOINC"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "66189004",
+          "CONCEPT_ID": 319038,
+          "CONCEPT_NAME": "Postmyocardial infarction syndrome",
+          "DOMAIN_ID": "Condition",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "87343002",
+          "CONCEPT_ID": 315830,
+          "CONCEPT_NAME": "Prinzmetal angina",
+          "DOMAIN_ID": "Condition",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": true,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "194868001",
+          "CONCEPT_ID": 4108680,
+          "CONCEPT_NAME": "Thrombosis of atrium, auricular appendage, and ventricle due to and following acute myocardial infarction",
+          "DOMAIN_ID": "Condition",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "1755008",
+          "CONCEPT_ID": 314666,
+          "CONCEPT_NAME": "Old myocardial infarction",
+          "DOMAIN_ID": "Condition",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": true,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Context-dependent",
+          "CONCEPT_CODE": "698593009",
+          "CONCEPT_ID": 44784441,
+          "CONCEPT_NAME": "History of non-ST segment elevation myocardial infarction",
+          "DOMAIN_ID": "Observation",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": true,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Context-dependent",
+          "CONCEPT_CODE": "285721000119104",
+          "CONCEPT_ID": 37395582,
+          "CONCEPT_NAME": "History of acute ST segment elevation myocardial infarction",
+          "DOMAIN_ID": "Observation",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": true,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Context-dependent",
+          "CONCEPT_CODE": "461000119108",
+          "CONCEPT_ID": 43530755,
+          "CONCEPT_NAME": "History of myocardial infarction in last eight weeks",
+          "DOMAIN_ID": "Observation",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": true,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

@@ -1,0 +1,905 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "4-dig billing code",
+          "CONCEPT_CODE": "36.17",
+          "CONCEPT_ID": 2001516,
+          "CONCEPT_NAME": "Abdominal-coronary artery bypass",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "ICD9Proc"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "67166004",
+          "CONCEPT_ID": 4284104,
+          "CONCEPT_NAME": "Aortocoronary artery bypass graft",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "8876004",
+          "CONCEPT_ID": 4229433,
+          "CONCEPT_NAME": "Aortocoronary artery bypass graft with prosthesis",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "3546002",
+          "CONCEPT_ID": 4146972,
+          "CONCEPT_NAME": "Aortocoronary artery bypass graft with saphenous vein graft",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "405599002",
+          "CONCEPT_ID": 4228305,
+          "CONCEPT_NAME": "Aortocoronary artery bypass graft with three vein grafts",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "405598005",
+          "CONCEPT_ID": 4228304,
+          "CONCEPT_NAME": "Aortocoronary artery bypass graft with two vein grafts",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "17073005",
+          "CONCEPT_ID": 4063237,
+          "CONCEPT_NAME": "Aortocoronary artery bypass graft with vein graft",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "309814006",
+          "CONCEPT_ID": 4148030,
+          "CONCEPT_NAME": "Aortocoronary bypass grafting",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "10190003",
+          "CONCEPT_ID": 4008625,
+          "CONCEPT_NAME": "Aortocoronary bypass of four or more coronary arteries",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "29819009",
+          "CONCEPT_ID": 4106548,
+          "CONCEPT_NAME": "Aortocoronary bypass of one coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "14323007",
+          "CONCEPT_ID": 4031996,
+          "CONCEPT_NAME": "Aortocoronary bypass of three coronary arteries",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "90487008",
+          "CONCEPT_ID": 4234990,
+          "CONCEPT_NAME": "Aortocoronary bypass of two coronary arteries",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
+          "CONCEPT_CODE": "1006216",
+          "CONCEPT_ID": 45889469,
+          "CONCEPT_NAME": "Arterial Grafting for Coronary Artery Bypass",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "C",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "59012002",
+          "CONCEPT_ID": 4240486,
+          "CONCEPT_NAME": "Carotid-subclavian artery bypass graft with vein",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "232717009",
+          "CONCEPT_ID": 4336464,
+          "CONCEPT_NAME": "Coronary artery bypass graft",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "232719007",
+          "CONCEPT_ID": 4337056,
+          "CONCEPT_NAME": "Coronary artery bypass graft x 1",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "119565001",
+          "CONCEPT_ID": 4000733,
+          "CONCEPT_NAME": "Coronary artery bypass graft, anastomosis of artery of thorax to coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "232724005",
+          "CONCEPT_ID": 4336467,
+          "CONCEPT_NAME": "Coronary artery bypass grafts greater than 5",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "232720001",
+          "CONCEPT_ID": 4336465,
+          "CONCEPT_NAME": "Coronary artery bypass grafts x 2",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "232721002",
+          "CONCEPT_ID": 4339629,
+          "CONCEPT_NAME": "Coronary artery bypass grafts x 3",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "232722009",
+          "CONCEPT_ID": 4337737,
+          "CONCEPT_NAME": "Coronary artery bypass grafts x 4",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "232723004",
+          "CONCEPT_ID": 4336466,
+          "CONCEPT_NAME": "Coronary artery bypass grafts x 5",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "359601003",
+          "CONCEPT_ID": 4233421,
+          "CONCEPT_NAME": "Coronary artery bypass with autogenous graft of internal mammary artery, single graft",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "82247006",
+          "CONCEPT_ID": 4305509,
+          "CONCEPT_NAME": "Coronary artery bypass with autogenous graft, five grafts",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "39202005",
+          "CONCEPT_ID": 4309432,
+          "CONCEPT_NAME": "Coronary artery bypass with autogenous graft, four grafts",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "10326007",
+          "CONCEPT_ID": 4011931,
+          "CONCEPT_NAME": "Coronary artery bypass with autogenous graft, three grafts",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "74371005",
+          "CONCEPT_ID": 4253805,
+          "CONCEPT_NAME": "Coronary artery bypass with autogenous graft, two grafts",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
+          "CONCEPT_CODE": "1006217",
+          "CONCEPT_ID": 45887879,
+          "CONCEPT_NAME": "Coronary artery bypass, using arterial graft(s)",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "C",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33534",
+          "CONCEPT_ID": 2107242,
+          "CONCEPT_NAME": "Coronary artery bypass, using arterial graft(s); 2 coronary arterial grafts",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33535",
+          "CONCEPT_ID": 2107243,
+          "CONCEPT_NAME": "Coronary artery bypass, using arterial graft(s); 3 coronary arterial grafts",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33536",
+          "CONCEPT_ID": 2107244,
+          "CONCEPT_NAME": "Coronary artery bypass, using arterial graft(s); 4 or more coronary arterial grafts",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33533",
+          "CONCEPT_ID": 2107231,
+          "CONCEPT_NAME": "Coronary artery bypass, using arterial graft(s); single arterial graft",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
+          "CONCEPT_CODE": "1006208",
+          "CONCEPT_ID": 45889898,
+          "CONCEPT_NAME": "Coronary artery bypass, using venous graft(s) and arterial graft(s)",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "C",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33518",
+          "CONCEPT_ID": 2107223,
+          "CONCEPT_NAME": "Coronary artery bypass, using venous graft(s) and arterial graft(s); 2 venous grafts (List separately in addition to code for primary procedure)",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33519",
+          "CONCEPT_ID": 2107224,
+          "CONCEPT_NAME": "Coronary artery bypass, using venous graft(s) and arterial graft(s); 3 venous grafts (List separately in addition to code for primary procedure)",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33521",
+          "CONCEPT_ID": 2107226,
+          "CONCEPT_NAME": "Coronary artery bypass, using venous graft(s) and arterial graft(s); 4 venous grafts (List separately in addition to code for primary procedure)",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33522",
+          "CONCEPT_ID": 2107227,
+          "CONCEPT_NAME": "Coronary artery bypass, using venous graft(s) and arterial graft(s); 5 venous grafts (List separately in addition to code for primary procedure)",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33523",
+          "CONCEPT_ID": 2107228,
+          "CONCEPT_NAME": "Coronary artery bypass, using venous graft(s) and arterial graft(s); 6 or more venous grafts (List separately in addition to code for primary procedure)",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33517",
+          "CONCEPT_ID": 2107222,
+          "CONCEPT_NAME": "Coronary artery bypass, using venous graft(s) and arterial graft(s); single vein graft (List separately in addition to code for primary procedure)",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
+          "CONCEPT_CODE": "1006200",
+          "CONCEPT_ID": 45887862,
+          "CONCEPT_NAME": "Coronary artery bypass, vein only",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "C",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33511",
+          "CONCEPT_ID": 2107217,
+          "CONCEPT_NAME": "Coronary artery bypass, vein only; 2 coronary venous grafts",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33512",
+          "CONCEPT_ID": 2107218,
+          "CONCEPT_NAME": "Coronary artery bypass, vein only; 3 coronary venous grafts",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33513",
+          "CONCEPT_ID": 2107219,
+          "CONCEPT_NAME": "Coronary artery bypass, vein only; 4 coronary venous grafts",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33514",
+          "CONCEPT_ID": 2107220,
+          "CONCEPT_NAME": "Coronary artery bypass, vein only; 5 coronary venous grafts",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33516",
+          "CONCEPT_ID": 2107221,
+          "CONCEPT_NAME": "Coronary artery bypass, vein only; 6 or more coronary venous grafts",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4",
+          "CONCEPT_CODE": "33510",
+          "CONCEPT_ID": 2107216,
+          "CONCEPT_NAME": "Coronary artery bypass, vein only; single coronary venous graft",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "4-dig billing code",
+          "CONCEPT_CODE": "36.16",
+          "CONCEPT_ID": 2001515,
+          "CONCEPT_NAME": "Double internal mammary-coronary artery bypass",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "VOCABULARY_ID": "ICD9Proc"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "119564002",
+          "CONCEPT_ID": 4000732,
+          "CONCEPT_NAME": "Internal mammary-coronary artery bypass graft",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "418824004",
+          "CONCEPT_ID": 4305852,
+          "CONCEPT_NAME": "Off-pump coronary artery bypass",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "175036008",
+          "CONCEPT_ID": 4020216,
+          "CONCEPT_NAME": "Revision of bypass for coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "4-dig billing code",
+          "CONCEPT_CODE": "36.15",
+          "CONCEPT_ID": 2001514,
+          "CONCEPT_NAME": "Single internal mammary-coronary artery bypass",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "VOCABULARY_ID": "ICD9Proc"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "359597003",
+          "CONCEPT_ID": 4233420,
+          "CONCEPT_NAME": "Single internal mammary-coronary artery bypass",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
+          "CONCEPT_CODE": "1006199",
+          "CONCEPT_ID": 45889467,
+          "CONCEPT_NAME": "Venous Grafting Only for Coronary Artery Bypass",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "C",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "VOCABULARY_ID": "CPT4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }
