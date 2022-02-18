@@ -1,0 +1,701 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "418982001",
+          "CONCEPT_ID": 4171077,
+          "CONCEPT_NAME": "Fluoroscopic angiography of coronary artery and insertion of stent",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "75761004",
+          "CONCEPT_ID": 4328103,
+          "CONCEPT_NAME": "Infusion of intra-arterial thrombolytic agent with percutaneous transluminal coronary angioplasty",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "80762004",
+          "CONCEPT_ID": 4216356,
+          "CONCEPT_NAME": "Infusion of intra-arterial thrombolytic agent with percutaneous transluminal coronary angioplasty, multiple vessels",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "91338001",
+          "CONCEPT_ID": 4238755,
+          "CONCEPT_NAME": "Infusion of intra-arterial thrombolytic agent with percutaneous transluminal coronary angioplasty, single vessel",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "414509005",
+          "CONCEPT_ID": 4214516,
+          "CONCEPT_NAME": "Insertion of drug coated stent",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "U",
+          "INVALID_REASON_CAPTION": "Invalid",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "203741000000101",
+          "CONCEPT_ID": 44789455,
+          "CONCEPT_NAME": "Insertion of drug-eluting coronary artery stent",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "4-dig billing code",
+          "CONCEPT_CODE": "36.07",
+          "CONCEPT_ID": 2001506,
+          "CONCEPT_NAME": "Insertion of drug-eluting coronary artery stent(s)",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "ICD9Proc"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "4-dig billing code",
+          "CONCEPT_CODE": "36.06",
+          "CONCEPT_ID": 2001505,
+          "CONCEPT_NAME": "Insertion of non-drug-eluting coronary artery stent(s)",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "VOCABULARY_ID": "ICD9Proc"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "K75.8",
+          "CONCEPT_ID": 44511272,
+          "CONCEPT_NAME": "Other specified percutaneous transluminal balloon angioplasty and insertion of stent into coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "OPCS4"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "K49.8",
+          "CONCEPT_ID": 44511133,
+          "CONCEPT_NAME": "Other specified transluminal balloon angioplasty of coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "OPCS4"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "232726007",
+          "CONCEPT_ID": 4337738,
+          "CONCEPT_NAME": "Percutaneous endarterectomy of coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "609153008",
+          "CONCEPT_ID": 43531439,
+          "CONCEPT_NAME": "Percutaneous insertion of drug eluting stent into coronary artery using fluoroscopic guidance",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "609152003",
+          "CONCEPT_ID": 43531438,
+          "CONCEPT_NAME": "Percutaneous insertion of stent into aneurysm of coronary artery using fluoroscopic guidance",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "397194000",
+          "CONCEPT_ID": 4264286,
+          "CONCEPT_NAME": "Percutaneous rotational coronary endarterectomy",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "HCPCS",
+          "CONCEPT_CODE": "C9600",
+          "CONCEPT_ID": 43533247,
+          "CONCEPT_NAME": "Percutaneous transcatheter placement of drug eluting intracoronary stent(s), with coronary angioplasty when performed; single major coronary artery or branch",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "HCPCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "HCPCS",
+          "CONCEPT_CODE": "C9601",
+          "CONCEPT_ID": 43533352,
+          "CONCEPT_NAME": "Percutaneous transcatheter placement of drug-eluting intracoronary stent(s), with coronary angioplasty when performed; each additional branch of a major coronary artery (list separately in addition to code for primary procedure)",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "HCPCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": false,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "L66.1",
+          "CONCEPT_ID": 44512256,
+          "CONCEPT_NAME": "Percutaneous transluminal arterial thrombolysis and reconstruction",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "VOCABULARY_ID": "OPCS4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "698740005",
+          "CONCEPT_ID": 44784573,
+          "CONCEPT_NAME": "Percutaneous transluminal atherectomy of coronary artery by rotary cutter using fluoroscopic guidance",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "K75.1",
+          "CONCEPT_ID": 44511268,
+          "CONCEPT_NAME": "Percutaneous transluminal balloon angioplasty and insertion of 1-2 drug-eluting stents into coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "OPCS4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "K75.2",
+          "CONCEPT_ID": 44511269,
+          "CONCEPT_NAME": "Percutaneous transluminal balloon angioplasty and insertion of 3 or more drug-eluting stents into coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "OPCS4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "K75.4",
+          "CONCEPT_ID": 44511271,
+          "CONCEPT_NAME": "Percutaneous transluminal balloon angioplasty and insertion of 3 or more stents into coronary artery NEC",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "OPCS4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "936451000000108",
+          "CONCEPT_ID": 45770795,
+          "CONCEPT_NAME": "Percutaneous transluminal balloon angioplasty and insertion of drug eluting stent into coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "K49.3",
+          "CONCEPT_ID": 44511131,
+          "CONCEPT_NAME": "Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "VOCABULARY_ID": "OPCS4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "175066001",
+          "CONCEPT_ID": 4020653,
+          "CONCEPT_NAME": "Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "K49.2",
+          "CONCEPT_ID": 44511130,
+          "CONCEPT_NAME": "Percutaneous transluminal balloon angioplasty of multiple coronary arteries",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "VOCABULARY_ID": "OPCS4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "429639007",
+          "CONCEPT_ID": 4181025,
+          "CONCEPT_NAME": "Percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "11101003",
+          "CONCEPT_ID": 4006788,
+          "CONCEPT_NAME": "Percutaneous transluminal coronary angioplasty",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "4-dig billing code",
+          "CONCEPT_CODE": "00.66",
+          "CONCEPT_ID": 2000064,
+          "CONCEPT_NAME": "Percutaneous transluminal coronary angioplasty [PTCA]",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "VOCABULARY_ID": "ICD9Proc"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "397193006",
+          "CONCEPT_ID": 4264285,
+          "CONCEPT_NAME": "Percutaneous transluminal coronary angioplasty by rotoablation",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "397431004",
+          "CONCEPT_ID": 4265293,
+          "CONCEPT_NAME": "Percutaneous transluminal coronary angioplasty with rotoablation, single vessel",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "85053006",
+          "CONCEPT_ID": 4225903,
+          "CONCEPT_NAME": "Percutaneous transluminal coronary angioplasty, multiple vessels",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "HCPCS",
+          "CONCEPT_CODE": "C9602",
+          "CONCEPT_ID": 43533353,
+          "CONCEPT_NAME": "Percutaneous transluminal coronary atherectomy, with drug eluting intracoronary stent, with coronary angioplasty when performed; single major coronary artery or branch",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "HCPCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "HCPCS",
+          "CONCEPT_CODE": "C9603",
+          "CONCEPT_ID": 43533248,
+          "CONCEPT_NAME": "Percutaneous transluminal coronary atherectomy, with drug-eluting intracoronary stent, with coronary angioplasty when performed; each additional branch of a major coronary artery (list separately in addition to code for primary procedure)",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "HCPCS"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "609154002",
+          "CONCEPT_ID": 43531440,
+          "CONCEPT_NAME": "Percutaneous transluminal insertion of metal stent into coronary artery using fluoroscopic guidance",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "428068004",
+          "CONCEPT_ID": 4175997,
+          "CONCEPT_NAME": "Percutaneous transluminal thrombolysis and reconstruction of artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "L71.6",
+          "CONCEPT_ID": 44511532,
+          "CONCEPT_NAME": "Percutaneous transluminal thrombolysis of artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "VOCABULARY_ID": "OPCS4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "426485003",
+          "CONCEPT_ID": 4139198,
+          "CONCEPT_NAME": "Percutaneous transluminal thrombolysis of artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "428488008",
+          "CONCEPT_ID": 4178148,
+          "CONCEPT_NAME": "Placement of stent in anterior descending branch of left coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "429499003",
+          "CONCEPT_ID": 4329263,
+          "CONCEPT_NAME": "Placement of stent in circumflex branch of left coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "36969009",
+          "CONCEPT_ID": 4283892,
+          "CONCEPT_NAME": "Placement of stent in coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Procedure",
+          "CONCEPT_CODE": "K75.9",
+          "CONCEPT_ID": 44511273,
+          "CONCEPT_NAME": "Unspecified percutaneous transluminal balloon angioplasty and insertion of stent into coronary artery",
+          "DOMAIN_ID": "Procedure",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "N",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "VOCABULARY_ID": "OPCS4"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }

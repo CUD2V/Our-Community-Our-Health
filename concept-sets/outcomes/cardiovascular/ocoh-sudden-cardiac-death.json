@@ -1,0 +1,106 @@
+{
+    "items": [
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "230802007",
+          "CONCEPT_ID": 4048809,
+          "CONCEPT_NAME": "Brainstem death",
+          "DOMAIN_ID": "Condition",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "410429000",
+          "CONCEPT_ID": 321042,
+          "CONCEPT_NAME": "Cardiac arrest",
+          "DOMAIN_ID": "Condition",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "53559009",
+          "CONCEPT_ID": 442289,
+          "CONCEPT_NAME": "Death in less than 24 hours from onset of symptoms",
+          "DOMAIN_ID": "Observation",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "95281009",
+          "CONCEPT_ID": 4317150,
+          "CONCEPT_NAME": "Sudden cardiac death",
+          "DOMAIN_ID": "Condition",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "26636000",
+          "CONCEPT_ID": 4132309,
+          "CONCEPT_NAME": "Sudden death",
+          "DOMAIN_ID": "Observation",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": false,
+        "includeDescendants": true,
+        "includeMapped": false
+      },
+      {
+        "concept": {
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "CONCEPT_CODE": "71908006",
+          "CONCEPT_ID": 437894,
+          "CONCEPT_NAME": "Ventricular fibrillation",
+          "DOMAIN_ID": "Condition",
+          "INVALID_REASON": "V",
+          "INVALID_REASON_CAPTION": "Valid",
+          "STANDARD_CONCEPT": "S",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "VOCABULARY_ID": "SNOMED"
+        },
+        "isExcluded": true,
+        "includeDescendants": true,
+        "includeMapped": false
+      }
+    ]
+  }
