@@ -103,7 +103,7 @@
           {
             "concept": {
               "CONCEPT_ID": 433832,
-              "CONCEPT_NAME": "Obstetric blood-clot pulmonary embolism",
+              "CONCEPT_NAME": "Obstetric pulmonary thromboembolism",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "INVALID_REASON": "V",
@@ -152,10 +152,10 @@
             "concept": {
               "CONCEPT_ID": 318137,
               "CONCEPT_NAME": "Phlebitis and thrombophlebitis of intracranial sinuses",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "N",
+              "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+              "INVALID_REASON": "D",
+              "INVALID_REASON_CAPTION": "Invalid",
               "CONCEPT_CODE": "192753009",
               "DOMAIN_ID": "Condition",
               "VOCABULARY_ID": "SNOMED",
@@ -183,7 +183,7 @@
           {
             "concept": {
               "CONCEPT_ID": 438820,
-              "CONCEPT_NAME": "Postpartum deep phlebothrombosis",
+              "CONCEPT_NAME": "Deep venous thrombosis in puerperium",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "INVALID_REASON": "V",
